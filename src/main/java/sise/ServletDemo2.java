@@ -30,5 +30,7 @@ public class ServletDemo2 implements Servlet {
     @Override
     public void destroy() {
 
+        System.out.println("sdsfsd");
+
     }
 }
