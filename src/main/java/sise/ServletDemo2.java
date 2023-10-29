@@ -31,6 +31,9 @@ public class ServletDemo2 implements Servlet {
     public void destroy() {
 
         System.out.println("sdsfsd");
+          System.out.println("sdsfsd");
+
+    
 
     }
 }
